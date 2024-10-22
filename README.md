@@ -37,3 +37,16 @@ The trained models have been published on Hugging Face. You can view and downloa
 - 3 Epochs (https://huggingface.co/Priyanka-Balivada/electra-3-epoch-sentiment)
 - 5 Epochs (https://huggingface.co/Priyanka-Balivada/electra-5-epoch-sentiment)
 
+## Materials & Methods
+**Computing Infrastructure:**
+- Operating System: Windows 64-bit operating system
+- Hardware: 8GB RAM, Intel Core i5 CPU
+- Software: Python>=3.8, Jupyter Notebooks, Hugging Face Transformers, PyTorch
+
+## Conclusions
+Both BERT and ELECTRA models performed well on the tweet dataset, with ELECTRA showing marginally better accuracy in sentiment classification. The transformer-based architectures effectively capture the sentiment from short, noisy texts.
+
+## Limitations
+- **Data Size**: The dataset may not be representative of all tweet sentiments, especially underrepresented categories.
+- **Model Fine-Tuning**: Further hyperparameter tuning could yield better performance.
+- **Generalizability**: The model may not perform as well on non-English tweets or other social media platforms due to domain differences.
