@@ -1,5 +1,5 @@
 ## Reproducibility
-The algorithms and methods used in this research were implemented using pre-trained BERT and ELECTRA models from Hugging Face. These models were fine-tuned on a tweet sentiment dataset from https://huggingface.co/datasets/cardiffnlp/tweet_eval. The notebooks provided contain all the necessary code to replicate the results.
+The algorithms and methods used in this research were implemented using pre-trained BERT and ELECTRA models from Hugging Face. These models were fine-tuned on a tweet sentiment dataset from https://huggingface.co/datasets/cardiffnlp/tweet_eval. The notebooks provided contain all the necessary code to replicate the results. You can also find the dataset files in the tweet_eval_dataset folder within the repository for local use.
 
 **Steps to Reproduce:**
 - Clone the repository.
