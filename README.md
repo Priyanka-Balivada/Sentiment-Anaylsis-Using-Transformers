@@ -4,7 +4,7 @@ The algorithms and methods used in this research were implemented using pre-trai
 **Steps to Reproduce:**
 - Clone the repository.
 - Install the required dependencies listed in requirements.txt.
-- Open the Jupyter notebooks bert_tweet_eval.ipynb and electra_tweet_eval.ipynb.
+- Open the Jupyter notebooks bert_tweet_eval.ipynb and electra_tweet_eval.ipynb present in Code folder.
 - Run the cells in sequence to replicate the experiments.
 - Ensure GPU support is available for faster model training.
 - WandB Setup:
